@@ -1,0 +1,7 @@
+Libraries that will be used
+React Router
+Styled Components(in combination with regualr css)
+slick carousel
+react hook form(probably)
+react scroll (pending other features)
+react hot toast
