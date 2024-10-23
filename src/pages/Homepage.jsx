@@ -1,5 +1,11 @@
+import Carousel from "../features/Carousel";
+
 function Homepage() {
-  return <div>HomePage</div>;
+  return (
+    <div>
+      <Carousel />
+    </div>
+  );
 }
 
 export default Homepage;
