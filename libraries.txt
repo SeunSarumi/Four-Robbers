@@ -5,3 +5,4 @@ slick carousel
 react hook form(probably)
 react scroll (pending other features)
 react hot toast
+Paystack inline js
